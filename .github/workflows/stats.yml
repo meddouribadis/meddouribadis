@@ -1,0 +1,40 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: "0 11 * * 0" # every week (Sunday)
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+
+      #- name: Generate Sponsors 💖
+      #  uses: JamesIves/github-sponsors-readme-action@v1
+      #  with:
+      #    token: ${{ secrets.USER_TOKEN }}
+      #    file: 'README.md'
+      #    active-only: false
+      #    template: '<a href="https://github.com/{{{ login }}}"><img src="{{{ avatarUrl }}}" width="30px" alt="{{{ login }}}" /></a>&nbsp;&nbsp;'
+      #    include-private: true
+    
+      - name: Update README.md
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name 'pepinillo-bot[bot]'
+            git config user.email '${{ secrets.BOT_EMAIL }}'
+            git add *.md
+            git commit -m "Update README.md"
+            git push
+          fi
