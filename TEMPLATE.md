@@ -1,9 +1,4 @@
-<div align="left" style="float: left; margin: 0 16px 8px 0; width: 184px; height: 184px;">
-  <div style="position: relative; width: 184px; height: 184px;">
-    <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif" alt="Animation base" width="184" height="184" style="display: block; width: 184px; height: 184px;" />
-    <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3080480/fde4583a31c6bd112b47ef192b187111cb10d255.png" alt="Animation overlay" width="184" height="184" style="position: absolute; inset: 0; z-index: 2; pointer-events: none; width: 184px; height: 184px;" />
-  </div>
-</div>
+<img align="left" style="border-radius: 6px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif" alt="Animation base" width="184" height="184" style="display: block; width: 184px; height: 184px;" />
 
 ### Hey!
 
