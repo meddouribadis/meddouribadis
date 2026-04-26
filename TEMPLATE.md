@@ -1,4 +1,6 @@
-<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif">
+<p align="center">
+    <img style="border-radius: 100%;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif">
+</p>
 
 ### Hey!
 
