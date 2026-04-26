@@ -1,4 +1,4 @@
-<img align="left" style="border-radius: 6px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif" alt="Animation base" />
+<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif">
 
 ### Hey!
 
