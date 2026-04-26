@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100%;" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif">
+    <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif" alt="Animation base" width="184" height="184" style="display: block; width: 184px; height: 184px; border-radius: 100%;">
 </p>
 
 ### Hey!
@@ -10,7 +10,9 @@ I'm **Badis**, a Software Developer from Paris with more than 8+ years experienc
 
 </br>
 
-Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
+
+<!--  and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories. -->
 
 <div style="clear: both;"></div>
 
