@@ -10,4 +10,4 @@ I'm **Badis**, a Software Developer from Paris with more than 8+ years experienc
 
 </br>
 
-Ever since I joined GitHub **8** years ago, I pushed **1523** commits, opened **4** issues, submitted **14** pull requests, received **15** stars across **91** personal projects, and contributed to **0** public repositories.
+Ever since I joined GitHub **8** years ago, I pushed **1524** commits, opened **4** issues, submitted **14** pull requests, received **118** stars across **14** personal projects, and contributed to **0** public repositories.
