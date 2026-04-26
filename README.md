@@ -1,1 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/motion.gif" alt="Animation" width="180" style="border-radius: 50%;" />
+</p>
+
+### Hey!
+
+I'm **Badis**, a Software Developer from Paris with more than 8+ years experience with a strong passion for all things open source.
+
+[![pgp](https://img.shields.io/badge/pgp-0xE22B60C41407F692-313131?style=flat&labelColor=545454&color=313131)](https://github.com/meddouribadis.gpg) [![views](https://komarev.com/ghpvc/?username=meddouribadis&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/meddouribadis)
+
+</br>
+
+Ever since I joined GitHub **8** years ago, I pushed **1523** commits, opened **4** issues, submitted **14** pull requests, received **15** stars across **91** personal projects, and contributed to **0** public repositories.
