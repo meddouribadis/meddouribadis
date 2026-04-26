@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="./assets/motion.gif" alt="Animation" width="180" style="border-radius: 50%;" />
-</p>
+<div style="float: left; margin: 0 16px 8px 0;">
+  <span style="position: relative; display: inline-block; width: 184px; height: 184px;">
+    <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3099240/66371eb66d9242b501783056c59b2a9fe96210f9.gif" alt="Animation base" width="184" />
+    <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/3080480/fde4583a31c6bd112b47ef192b187111cb10d255.png" alt="Animation overlay" width="184" style="position: absolute; top: 0; left: 0;" />
+  </span>
+</div>
 
 ### Hey!
 
@@ -11,3 +14,9 @@ I'm **Badis**, a Software Developer from Paris with more than 8+ years experienc
 </br>
 
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+<div style="clear: both;"></div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
